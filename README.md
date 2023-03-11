@@ -1,0 +1,1 @@
+* methods & data that were passed down as props are now obtained via context
